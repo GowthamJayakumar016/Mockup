@@ -3,7 +3,7 @@ public class CountEvendigits {
         System.out.println("Finding the even digits in the number");
 
         int []arr= new int[]{
-            1,23,4,56,6778,5,4,345,
+            1,23,4,56,67378,5,4,345,
         };
 
         int k=Count(arr);
