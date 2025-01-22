@@ -28,10 +28,6 @@ public class CountEvendigits {
             count1++;
             num=num/10;
         }
-        if(count1%2==0)
-        {
-            return true;
-        }
-        return false;
+        return count1%2==0;
     }
 }
