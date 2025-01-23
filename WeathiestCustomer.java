@@ -5,7 +5,7 @@ public class WeathiestCustomer {
     int [][] arr=new int[][]{
         {1,23,4},
         {45,57},
-        {2,455,7}
+        {2,45,7}
     };
     System.out.println("wealthieat customer "+Maxwealth(arr));
 
