@@ -23,11 +23,7 @@ public class CountEvendigits {
     static boolean even(int num)
     {
         int count1=0;
-        while(num>0)
-        {
-            count1++;
-            num=num/10;
-        }
+        count1=((int)Math.log10(num)+1);
         return count1%2==0;
     }
 }
