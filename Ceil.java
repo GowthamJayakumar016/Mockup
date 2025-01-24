@@ -1,4 +1,4 @@
-public class Binarysearch {
+public class Ceil{
     public static void main(String[] args) {
         System.out.println("Binary Search");
         int []arr={2,3,5,9,14,16,18};
