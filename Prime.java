@@ -15,7 +15,7 @@ public class Prime {
             System.out.println("neither prime nor composite");
         }
         else{
-            while(c<=(int)Math.sqrt(num))
+            while(c<num)
             {
                 if(num%c==0)
                 {
