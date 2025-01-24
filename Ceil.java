@@ -29,6 +29,6 @@ public class Ceil{
             }
 
         }
-        return arr[start];
+        return arr[end];
     }
 }
