@@ -1,7 +1,7 @@
 public class PeakOfMountain {
     public static void main(String[] args) {
         System.out.println("Peak Of the Mountain");
-        int []arr=new int[]{1,2,3,5,6,7,9,4,3,2};
+        int []arr=new int[]{1,2,3,5,6,7,4,3,2};
         int ans=Peak(arr);
         System.out.println(ans);
     }
