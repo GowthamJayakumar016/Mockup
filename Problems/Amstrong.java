@@ -1,3 +1,4 @@
+package Problems;
 public class Amstrong {
     public static void main(String[] args) {
        System.out.println("Amstrong number"); 

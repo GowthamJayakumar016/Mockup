@@ -1,3 +1,4 @@
+package Problems;
 public class StringParsing {
     public static void main(String[] args) {
         System.out.println("Searching in the string");
