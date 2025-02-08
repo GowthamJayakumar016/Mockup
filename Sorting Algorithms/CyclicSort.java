@@ -13,7 +13,7 @@ public class CyclicSort {
             int CorrectIndex=arr[i]-1;
             if(arr[i]!=arr[CorrectIndex])
             {
-                int temp=arr[i];
+                    int temp=arr[i];
                     arr[i]=arr[CorrectIndex];
                     arr[CorrectIndex]=temp;
             }
