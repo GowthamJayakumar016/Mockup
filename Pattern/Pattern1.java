@@ -4,7 +4,7 @@ public class Pattern1 {
   public static void main(String[] args) {
     DecrementPattern(5);
     SquarePattern(5);
-    Pattern(4);
+    Pattern(5);
   
   }
 static void Pattern(int n)
