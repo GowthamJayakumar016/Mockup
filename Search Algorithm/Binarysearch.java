@@ -5,7 +5,7 @@ public class Binarysearch {
         int k=binarysearch(arr, 6);
         System.out.println(k);
     }
-
+// Binary Search Algorithm
     public static int binarysearch(int arr[],int target)
     {
         int start=0;
