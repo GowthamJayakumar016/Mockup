@@ -8,7 +8,7 @@ public class CyclicSort {
     static int [] Cyclicsort(int arr[])
     {
         int i=0;
-        while(i<arr.length)
+        while(i<arr.length)//  done using the for loop
         {
             int CorrectIndex=arr[i]-1;
             if(arr[i]!=arr[CorrectIndex])
